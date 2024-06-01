@@ -6,6 +6,8 @@ This repository contains the analysis of the Netflix Titles dataset, which inclu
 ## Files
 - `netflix_titles1.xlsx`: The dataset file.
 - `netflix_project.ipynb`: Script for data cleaning.
+- `netflix_project.html` : jupyter notebook in html format for easy reference
+- `netflix_data_analysis`: Anaylsis report in pdf format
 - `README.md`: Documentation and instructions.
 
 ## Instructions
